@@ -37,8 +37,8 @@ This document is a comprehensive reference for using Git with Hugging Face Space
 Set your global Git username and email so commits are properly attributed to you:
 
 ```bash
-git config --global user.name "kaisarhossain"
-git config --global user.email "kaisar.hossain@gmail.com"
+git config --global user.name "your-username"
+git config --global user.email "your-email-id"
 ```
 
 **What this does:** Writes your name/email to `~/.gitconfig`. Commits you make on this machine will show this identity unless overridden per-repo.
