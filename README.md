@@ -1,6 +1,7 @@
 # 📘 README — Git Reference for Hugging Face (HF) & GitHub Deployments
 
 **Author:** Mohammed Golam Kaisar Hossain Bhuyan
+
 **Email:** kaisar.hossain@gmail.com
 
 This document is a comprehensive reference for using Git with Hugging Face Spaces and GitHub. It includes step-by-step commands and safety notes for cleaning sensitive files (like `.env`), configuring remotes, deploying to Hugging Face, and reverting back to GitHub. Keep this file in your projects for a repeatable, secure workflow.
